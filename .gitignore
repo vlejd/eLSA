@@ -1,0 +1,4 @@
+dumps_multiw/*.pickle
+dumps/*.pickle
+.ipynb_checkpoints/
+__pycache__/
